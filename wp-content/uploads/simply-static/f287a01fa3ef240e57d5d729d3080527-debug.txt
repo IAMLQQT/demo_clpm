@@ -2180,3 +2180,5 @@
 [2024-06-19 06:49:11] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
 [2024-06-19 06:49:11] [class-ss-archive-creation-job.php:197] Completing the job
 [2024-06-19 06:49:11] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:00:46
+[2024-06-19 08:47:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo_clpm
+[2024-06-19 08:47:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo_clpm
